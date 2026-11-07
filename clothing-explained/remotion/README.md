@@ -4,7 +4,7 @@ Fresh Remotion 4.0.541 project (no files from the abandoned stop-motion series; 
 
 ## What was built
 
-- Composition `CoinPocket` in `src/CoinPocket.tsx`: 720 frames at 24 fps, 720x1280, 30 seconds, one continuous shot, no cuts, no fades, no captions, no title cards.
+- Composition `CoinPocketFinal` in `src/CoinPocketFinal.tsx` (draft `CoinPocket.tsx` removed 2026-11-07): 720 frames at 24 fps, 720x1280, 30 seconds, one continuous shot, no cuts, no fades, no captions, no title cards.
 - Low-poly faceted jeans panel in matte denim blues, tiny pocket that lifts off and floats, pocket watch that slides in and rides with the lifted pocket, tools and dust in the main pocket from 15s, pocket snapping back 25-29s.
 - Camera: continuous orbit around the centre pivot (360, 640), rising and dipping, never stopping, action already moving on frame 1 and still moving on the last frame.
 - Output: `out/coin-pocket-draft.mp4`, 919 KB.
@@ -20,7 +20,7 @@ Fresh Remotion 4.0.541 project (no files from the abandoned stop-motion series; 
 
 ```bash
 cd ~/workspace/clothing-explained/remotion
-npx remotion render src/index.ts CoinPocket out/coin-pocket-draft.mp4 \
+npx remotion render src/index.ts CoinPocketFinal out/coin-pocket-final.mp4 \
   --browser-executable=$PWD/.browser/chrome-headless-shell-linux64/chrome-headless-shell
 ```
 

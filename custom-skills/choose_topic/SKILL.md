@@ -12,7 +12,7 @@ For each candidate, privately note what most people would guess the reason is, a
 Assume the viewer already knows popular clothing facts: the watch pocket, copper rivets, selvedge lines, the bomber jacket's orange lining, locker loops, how Gore-Tex breathes, polyester smelling worse than cotton, heel-lock eyelets, why clothes pill or shrink. Anything that appears in "clothing facts you didn't know" listicles is already known. Discard it.
 
 ## Where to search (changed 2026-11-06, Dario)
-Discovery first, verification second. Patents are good for proof, bad for finding topics, so do NOT search primary sources first.
+Discovery first, verification second. Patents are good for proof, bad for finding topics, so do NOT search primary sources first. Do not start a topic search in patents, CBP rulings, court cases, or other law sources. Start with interesting facts, crazy facts, interesting stories, how it works, and how it was invented. Tariff and trademark topics are allowed only if they turn up that way, they are not the search target.
 - Search broadly for discovery: crazy facts, weird and surprising clothing facts, inventions, stories behind a feature, and really cool clothing science. Use listicles, forums, social posts, trade magazines, and company stories as discovery leads only, never as proof.
 - Really cool clothing science is good too, as long as it passes the reason jump and the informed viewer would not already know it. Science that is just the guess with more detail still fails.
 - Then verify the survivors. Primary sources are still the check, not the search: U.S. Customs (CBP) CROSS rulings, patents, FTC labeling rules, court cases and trade disputes, apparel trade and sourcing publications, supplier documentation, industry standards, company filings and earnings calls.
@@ -67,13 +67,15 @@ Discard any hook that breaks a rule. From the rest, pick the one that names the 
 
 ## AFTER DELIVERING
 - Add the topic to the used-topics list in your memory.
-- When you send the video, send a good title for the video, and a description for the video that will include four hashtags and nothing else, so just the video, title, description.
+- When you send the video, send a good title for the video, and a description for the video that will include at least four hashtags and nothing else, so just the video, title, description.
 
 ## USED TOPICS
 - Jeans coin pocket, originally a watch pocket (video delivered, v1 to v4, 2026-11-06)
 - Levi's blank red tab, blank tab keeps the trademark in the tab shape itself (video delivered, unbranded visuals, 1080p, out/blank-tab-final-1080p.mp4, 2026-11-06)
 - Copper rivets on jeans: Dario said 2026-11-06 it is a boring topic, do not use it. It was researched and hooks written 2026-11-05, but no video was made.
+- Nike Air bubble (video delivered 2026-11-06/07, Remotion render with narration + SFX)
+- Prepared, not built: Converse Chuck Taylor felt sole; Champion Reverse Weave sweatshirt
 
 ## DELIVERY AND SUBTITLES
-- When you send a video, send only the video, a good title, and a description with four hashtags, and nothing else in that delivery message. No check summary, no caveats, no extra notes.
+- When you send a video, send only the video, a good title, and a description with at least four hashtags, and nothing else in that delivery message. No check summary, no caveats, no extra notes.
 - Subtitles are now standard on every video, superseding the old no-captions rule. Placement: sample 2, middle third upper part, 40% down. Font: TikTok Sans Bold, white only, no black outline. Fewer words on screen at a time, 3 to 4 words per chunk.

@@ -1,27 +1,32 @@
-# Clothing Explained Like Science Videos
+# Clothing Explained
 
-Pivot 2026-11-05: Nico, Benny, and the NYC Show stop-motion series are completely abandoned. Do not use those characters, files, or context.
+30-second vertical 9:16 low-poly 3D videos about the surprising real reason
+behind a detail on clothes young men own. One continuous shot, no cuts,
+fades, or title cards. Camera orbits one central pivot continuously.
+Something is always moving. Voice-only narration, no music.
 
-## Format
-- 30 second videos to start, one continuous video, no transitions, no cuts, no fades, no title cards, no on-screen captions.
-- Vertical 9:16, low-poly 3D animation, faceted geometry, matte solid colors, flat or soft shading, no photorealism, no film grain.
-- Camera: motion-control robotic-arm-like, locked onto one pivot at center of hero object, continuously orbiting an imaginary sphere around it, rising and dipping, pivot dead center at all times, moving at full speed on first frame and last frame, never stops, pauses, holds, cuts, or fades.
-- Motion: something always animating besides camera, parts lift off, separate, rotate, slide, snap back, object slowly spins and floats when nothing is demonstrated, nothing ever fully still.
-- Sound: crisp sound effect on exact frame of every movement, whooshes, clicks, snaps, thunks, fabric rustles, metallic clinks, no music.
-- Frame 1: action already in progress, no fade in. Last frame: end mid-motion, no fade out.
-- Narrator voice, no two-character dialogue.
+## Rules (full rules live in the skills, not here)
+- `custom-skills/choose_topic/SKILL.md` — find the topic. Discovery first:
+  interesting facts, crazy facts, stories, how it works, how it was invented.
+  Do not start in patents, CBP rulings, or court cases. Verify survivors
+  with two independent credible sources.
+- `custom-skills/clothing_science_explainer/SKILL.md` — write and build it.
+  3 hooks, pick the strongest yourself. Narration ~100 words for 30s, can
+  go over if script and video lengths match. Subtitles standard.
+  Approved SFX only; send any new sound to Dario before making a video.
+- Delivery: video + title + description with at least 4 hashtags, nothing else.
+- Testing now: ask Dario before building. Final mode: build the whole thing
+  without asking, deliver video + title + description.
 
-## Hook rules
-- 8 spoken hooks per video, each names the part in the opening shot within first few words, about viewer's own clothes or habits, creates one question and does not answer it, contains one surprise true according to verified fact and nothing more, 12 words or fewer.
-- Vary angle: used wrong, false common assumption, check on own clothes now, real story behind detail, true fact that sounds wrong. Skip angles the verified fact does not support. Never invent people, stories, dates, or numbers.
-- Avoid generic openers: "Did you know", "You won't believe", "Here's why", "Nobody tells you".
-- Choose strongest hook, go with that.
+## Delivered
+- Jeans coin pocket (watch pocket) — 2026-11-06
+- Levi's blank red tab — 2026-11-06, unbranded visuals
+- Nike Air bubble — 2026-11-06/07, Remotion render with narration + SFX
 
-## Verified facts, candidates for first video
-- Jeans coin pocket: originally a watch pocket, made to hold a pocket watch securely, protected from tools and dust in the main pocket. Sources: Levi Strauss still calls it watch pocket; Gear Patrol and Reader's Digest, 1870s origin, watch pocket added around 1879, fifth pocket added 1901. Note: watch pocket was fourth pocket, not fifth, in early jeans.
-- Jeans copper rivets: copper rivets at pocket corners and base of fly reinforce stress points, stop pockets tearing off, patented 1873 by Jacob Davis and Levi Strauss, U.S. Patent 139,121. Rivets spread tension across a wider area.
-- Shirt button sides: NOT a clean single verified fact, multiple competing theories (swords, servants, nursing, sidesaddle), so avoid as first video.
+## Prepared, not built
+- Converse Chuck Taylor felt sole — tariff / slipper
+- Champion Reverse Weave sweatshirt — 1930s shrink fix, grain rotated 90°
 
-## First topic
-- Coin pocket going first unless Dario says otherwise, strongest hook "Your tiny jeans pocket was built for a pocket watch, not coins?" (12 words). Hooks and beat sheet in hooks.md.
-- Visual draft rendered 2026-11-05: ~/workspace/clothing-explained/remotion/out/coin-pocket-draft.mp4, 30s, 720x1280, 24 fps, silent (narration and SFX scripted in remotion/narration.md, not yet recorded). Copper rivets is the backup second video.
+## Do not use
+- Copper rivets — Dario called it boring, 2026-11-06
+- Old Nico / Benny / NYC Show stop-motion series — abandoned 2026-11-05

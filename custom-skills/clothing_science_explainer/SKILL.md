@@ -8,15 +8,15 @@
 
 - Never invent people, stories, dates or numbers when you fill in the fact or the hooks.
 
-## Write the eight hooks
+## Write the three hooks
 
-- Write eight spoken hooks for one video and name the part in the opening shot within the first few words of each hook.
+- Write three spoken hooks for one video and name the part in the opening shot within the first few words of each hook.
 
 - Make each hook about the viewer's own clothes or habits and keep each hook to 12 words or fewer.
 
 - Give each hook one unanswered question and one surprise that is true according to the verified fact and nothing more.
 
-- Vary the angle across the eight hooks across using something wrong, a false common assumption, a check the viewer can do on their own clothes right now, the real story behind the detail, and a true fact that sounds wrong.
+- Vary the angle across the three hooks using something wrong, a false common assumption, a check the viewer can do on their own clothes right now, the real story behind the detail, and a true fact that sounds wrong.
 
 - Avoid generic openers such as Did you know, You will not believe, Here is why, and Nobody tells you.
 
@@ -28,6 +28,38 @@
 
 - Use this skill only for the clothing explained like science project and do not bring back the abandoned stop-motion characters, files or context.
 
+## Story structure toolkit (added 2026-11-07)
+
+Do not write every script as hook, then immediate answer, then chronology. That kills tension in sentence two. Pick one structure per topic, from the toolkit below, and name it in the brief before writing the narration.
+
+- ABT, always: use And / But / Therefore as the sentence logic under every structure. Every beat must cause the next one. Never chain beats with "and then".
+- Delay the answer: do not name the true reason until about 12 to 15 seconds, unless the chosen structure says otherwise. The hook asks, clues build, the reveal lands.
+- Visual first, then why: say what the viewer is seeing, then explain it.
+- One surprise per beat, each beat ending with a reason to keep watching. Put dates and numbers late, as proof, not as the opening.
+- Callback: the last line echoes the first line with new meaning, and invites the viewer to look at their own clothes again.
+
+Default arc, Mystery (use unless another structure fits the fact better):
+- 0 to 5s: mystery, do not answer yet. Hook plus a visual contradiction.
+- 5 to 12s: stakes and first clue. Make it personal, check your own clothes, end on a mini-question.
+- 12 to 20s: the twist. The real reason, revealed as a turn, not a lecture.
+- 20 to 26s: proof. The number, rejection, or patent lands here, as a punchline.
+- 26 to 30s: payoff and callback. Repeat the hook wording with new meaning, end mid-motion.
+
+Alternatives, pick the one that fits the fact, do not use the same one twice in a row:
+- Myth vs. fact / debunk: state the common guess as if true, show why it fails, replace it. Best for tariff, trademark, and labeling topics, where the guess is the point. Weak for invention stories with no strong false belief.
+- How it works / problem-solution: problem, mechanism step by step, it works. Best for a mechanism that can be shown on the object. Add a mystery question on top, or it turns into a lecture.
+- Before / after / contrast: show the guess and the truth side by side on the same object, two different worlds. Best when the contrast is clean and visual, for example a sneaker that is legally a slipper.
+- In medias res / cold open: start at the climax, the shoe splitting or the pouch springing back, then rewind to explain how we got there. Best for the first 2 seconds, hard in one continuous shot with no cuts, do not jump around in time if it confuses the mechanism.
+- Loop / circular: start and end on the same shot, meaning changed. Best as an ending for Mystery, not a structure on its own.
+- Kishotenketsu: introduction, development, twist, conclusion, no conflict, no villain. Best when the topic has a twist but no fight, which is most of these topics.
+- Clue chain / detective's notebook: three clues, each one ruling out a guess, the third clue forces the truth. Best when there are three distinct, showable clues on the object.
+- Courtroom / trial: the guess is the charge, the evidence is shown one piece at a time, the verdict is the true reason. Best for trademark and patent topics, where a ruling or registration is the proof. Do not invent a courtroom, a judge, or dialogue; keep it to the object and the evidence.
+- Then vs. now / time travel: the object as it was, the object as it is, what changed in one specific year and why. Best only when a dated change is the mechanism, and the date is verified.
+- The bet / wager: "I bet you think X. You would lose." Best sparingly, at most one video in three, or it becomes a gimmick. The bet must be the viewer's own guess, not a straw man.
+- Origin story / biography: chronological, inventor to product. Use only when chronology IS the mechanism, and still delay the answer. This is the old default, do not use it by habit.
+
+Selection rule: law and tariff topics start with Myth vs. fact. Invention topics start with Mystery. Mechanism topics start with How it works. If the fact supports only one strong angle, write the script around that one fact instead of stretching to an unsupported angle, in whichever structure was picked.
+
 ## Hold the master style
 
 - Build one continuous 30 second video in vertical 9 to 16 low-poly 3D animation with faceted geometry, matte solid colors and no photorealism.
@@ -36,8 +68,8 @@
 
 - Keep something on the object always animating besides the camera, with parts lifting off, separating, rotating, sliding and snapping back, and let the object slowly spin and float when nothing is being demonstrated.
 
-- Put a crisp sound effect on the exact frame of every visible movement and use no music, no on-screen captions, no cuts, no fades and no title cards. Do not rely on the video generator for sound effects, its audio is muted. Build a separate timed sound-effects track and mix it in Remotion as a second Audio track under the narration, so it never masks the voice.
-- Approved sound effects only, Dario's rule 2026-11-06: use only the effects he has approved, and ask him first before using any new effect in a future video. Approved list: Simple Whoosh from Pixabay by DRAGON-STUDIO (1s, approved 2026-11-06), metallic clink, click, soft thunk, snap. Rejected: the synthesized whooshes, the synthesized rustle, and the Pixabay Whoosh Bright Panning 6 and Whoosh Cinematic. Do not synthesize swooshes or rustles in code again, they sound fake; use real library sounds and get them approved first.
+- Put a crisp sound effect on the exact frame of every visible movement and use no music, no cuts, no fades and no title cards. Subtitles are standard: TikTok Sans Bold, white only, 3-4 words per chunk, 40% down. Do not rely on the video generator for sound effects, its audio is muted. Build a separate timed sound-effects track and mix it in Remotion as a second Audio track under the narration, so it never masks the voice.
+- Approved sound effects only: use only the effects Dario has approved. Send any new sound to Dario before making a video with it, and do not use it until he approves. Approved list: Simple Whoosh from Pixabay by DRAGON-STUDIO (1s, approved 2026-11-06), metallic clink, click, soft thunk, snap. Rejected: the synthesized whooshes, the synthesized rustle, and the Pixabay Whoosh Bright Panning 6 and Whoosh Cinematic. Do not synthesize swooshes or rustles in code again, they sound fake; use real library sounds and get them approved first.
 
 - Start with the action already in progress on the first frame and end mid-motion on the last frame.
 
@@ -47,17 +79,24 @@
 
 - Look-consistency check: extract frames from every segment and from the final stitched video, at least at 2s, 8s, 18s, and 28s, read them, and compare the look across segments. The look must stay faceted low-poly, matte solid colors, no photorealism, in every segment. If any segment varies, redo that segment, then recheck all frames again. Do not deliver a video with a known look drift.
 - Continuous-talking check: someone must be talking the entire 30 seconds, with no silence gap. Do not trust the video generator's built-in voice for this, its voice and accent can change between segments and it can go silent for whole seconds.
-- Audio check method: run ffmpeg silencedetect on every segment and on the final video, and transcribe the audio with timestamps when silence is suspected. A silence gap over 1 second is a fail, redo or replace the audio for that segment. Better than checking the generator's audio after the fact is to strip it and lay one continuous narrator TTS track over the whole 30 seconds in Remotion, using one narrator voice, so the voice, accent, and talking coverage are controlled, not left to the generator. Do not stretch the voice by slowing it down to fill 30 seconds, that reads as too slow. Keep the narrator near normal speed, around 97 to 100, and expand the narration with more verified-fact wording to fill the time instead, so talking stays continuous and brisk.
+- Audio check method: run ffmpeg silencedetect on every segment and on the final video, and transcribe the audio with timestamps when silence is suspected. A silence gap over 1 second is a fail, redo or replace the audio for that segment. Better than checking the generator's audio after the fact is to strip it and lay one continuous narrator TTS track over the whole 30 seconds in Remotion, using one narrator voice, so the voice, accent, and talking coverage are controlled, not left to the generator. Do not stretch the voice by slowing it down to fill 30 seconds, that reads as too slow. Narration target is ~100 words for 30 seconds. You can go over 100 words as long as the script and video lengths match. Keep the narrator near normal speed and expand the narration with more verified-fact wording to fill the time instead of slowing the voice. Voice: avocado_v2:MAI_03 (Helio), speed 105 delivered for Nike Air.
 - Remotion waveform idea, evaluated: Remotion can play and mix audio, but it does not analyze a waveform or detect silence by itself. ffmpeg silencedetect, plus a waveform image from ffmpeg showwavespic, plus a Whisper transcription with timestamps, is the better check, because it measures the actual audio file. Use that, not Remotion, for the silence check.
 
 ## Choose the topic
-- Use the separate skill at ~/workspace/custom-skills/choose_topic/SKILL.md for finding topics and writing hooks. It supersedes the older hook-only rules here for topic choice: reason jump, informed viewer, primary sources first, gates, at least 10 candidates, three rounds max, never lower the bar and never make up a topic.
+- Use the separate skill at custom-skills/choose_topic/SKILL.md in this repo for finding topics and writing hooks. It supersedes the older hook-only rules here for topic choice: reason jump, informed viewer, primary sources first, gates, at least 10 candidates, three rounds max, never lower the bar and never make up a topic.
+
+
+## Build (Remotion, reuse the code in this repo)
+- Use ONE Remotion composition for every video: clothing-explained/remotion/src/ClothingExplained.tsx. Do NOT make a new TSX file per video. It takes a `folder` prop and plays that folder's seg1-4.mp4, narration.mp3, and sfx.mp3. Render with --props='{"folder":"<topic-folder>"}'. 720 frames, 24fps, 720x1280, 30 seconds, one continuous shot.
+- Segments: 4 segment videos per video, 5s + 10s + 10s + 5s, plus 1 hero image. Max 4 segment generations, plus retries to a total of 6. Regenerate a bad segment only if it is visibly wrong; do not keep retrying the same prompt.
+- Render with Remotion, not ffmpeg stitch: first `npx remotion browser ensure` to download the Chrome Headless Shell, then render with that shell, not the system Chrome. Burn subtitles, then upscale with ffmpeg lanczos to 1080x1920.
+- Testing now: ask Dario before building a video. Final mode, when Dario says so: do the whole thing without asking — search topic, write hooks and narration, build, render, deliver video + title + description with at least 4 hashtags.
 
 ## Assemble and deliver
 
 - Combine all segments into one continuous video in order and output only the final combined video.
 - Upscale from now on, Dario 2026-11-06: after the Remotion render, upscale the final video with ffmpeg lanczos to 1080x1920, free and local, about 80 seconds for a 30 second video. It is interpolation, it does not add real detail.
-- When you send a video, send only the video, a good title for the video, and a description for the video that includes four hashtags and nothing else. After delivering, add the topic to the used-topics list in memory.
+- When you send a video, send only the video, a good title for the video, and a description for the video that includes at least four hashtags and nothing else. After delivering, add the topic to the used-topics list in memory.
 
 - Test a short render for this low-poly format before you promise a full video, since the verified 2026-11-05 Remotion render joined clips from the abandoned series and did not test low-poly generation.
 
@@ -65,7 +104,7 @@
 
 - Do not claim a native 60 fps render, since asking the generator for 60 fps came back at 24 fps and an ffmpeg conversion only duplicates frames.
 
-- Tell Dario plainly that you cannot watch rendered playback, so he stays the judge of whether the video looks right.
+- You cannot watch rendered playback, so Dario remains the judge of whether the video looks right.
 
 ## Available connectors
 
@@ -75,6 +114,6 @@
 
 ## Alternatives for better results
 
-- When the verified fact supports only one strong angle, write the eight hooks around that one fact instead of stretching to an unsupported angle.
+- When the verified fact supports only one strong angle, write the three hooks around that one fact instead of stretching to an unsupported angle.
 
 - When a generation fails, check the task status and report what completed before you try a different route.
