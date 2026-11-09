@@ -111,8 +111,8 @@ Video generators do not understand objects: they smear textures across surfaces,
 
 Dario's verdict on the genuine leather video (2026-11-09): the first 4 seconds were just a wallet rotating, then 3.5 more seconds zooming into the same wallet — almost 8 seconds of one object on screen, nothing engaging. Nobody watches a plain object rotate for 8 seconds. This is a fail, not a style choice.
 
-- Never open with a static object merely rotating, floating, or being slowly zoomed into. The first 5 seconds must show a visible change of state: something splitting, lifting, flipping, pouring, cutting, peeling, snapping apart. Frame 1 must already be mid-change, not mid-rotation.
-- No segment may be only "object rotates" or "camera zooms". Every segment must contain a distinct visual event — a new action, a new state, a new element arriving. A segment with no change of state fails and must be regenerated.
+- Never open with a static object merely rotating, floating, or being slowly zoomed into. Something new must happen every 2 to 3 seconds — not every 5. A single action stretched across 5 seconds is still boring: a wallet being cut in half for 5 seconds is 5 seconds of one thing. The cut itself happens in 1 to 2 seconds, then the next event starts. Every segment must contain 2 to 4 distinct timed micro-events, one every 2 to 3 seconds, each matched to a word in the narration. Frame 1 must already be mid-change, not mid-rotation.
+- No segment may be only "object rotates" or "camera zooms". Every segment must contain a distinct visual event — a new action, a new state, a new element arriving. A segment with no change of state fails and must be regenerated. Segment prompts list 2 to 4 timed micro-events (one every 2 to 3 seconds), not one action for the whole segment.
 - Vary scale and angle between beats: wide shot, then close-up, then cross-section, then detail — never the same framing twice in a row. The object must DO something in every beat, not just be shown from another angle.
 - Do not animate every segment from the same still hero image with only rotation/zoom. Each segment prompt must name its own action and its own change.
 
