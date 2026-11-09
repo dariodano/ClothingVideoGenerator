@@ -107,6 +107,23 @@ Video generators do not understand objects: they smear textures across surfaces,
 - Open on the whole object, then use a camera move to reveal the detail. Do not ask the generator for an object-to-object transformation (a shoe becoming a waffle iron) — stage it as parts lifting off and a pattern appearing instead.
 - Do NOT move the motion into Remotion. Motion stays in the generated segments; Remotion is the stitcher only.
 
+## Visual creativity — the first 8 seconds decide everything (added 2026-11-09)
+
+Dario's verdict on the genuine leather video (2026-11-09): the first 4 seconds were just a wallet rotating, then 3.5 more seconds zooming into the same wallet — almost 8 seconds of one object on screen, nothing engaging. Nobody watches a plain object rotate for 8 seconds. This is a fail, not a style choice.
+
+- Never open with a static object merely rotating, floating, or being slowly zoomed into. The first 5 seconds must show a visible change of state: something splitting, lifting, flipping, pouring, cutting, peeling, snapping apart. Frame 1 must already be mid-change, not mid-rotation.
+- No segment may be only "object rotates" or "camera zooms". Every segment must contain a distinct visual event — a new action, a new state, a new element arriving. A segment with no change of state fails and must be regenerated.
+- Vary scale and angle between beats: wide shot, then close-up, then cross-section, then detail — never the same framing twice in a row. The object must DO something in every beat, not just be shown from another angle.
+- Do not animate every segment from the same still hero image with only rotation/zoom. Each segment prompt must name its own action and its own change.
+
+## Text in generated images (added 2026-11-09)
+
+Dario's verdict on the genuine leather video (2026-11-09): the words "genuine leather" floated upwards at random — bad AI image generation. Text must never appear by accident.
+
+- Default: every image and video prompt includes "no text, no letters, no words, no labels, no watermarks".
+- Text appears ONLY when the brief explicitly names it as the subject of the shot — for example a stamp on the leather — and then it must be rendered as a clean, fixed stamp or label ON the object itself, legible, still, and part of the object. Never floating, never drifting, never random words in the background.
+- If generated text comes out garbled, misspelled, floating, or anywhere it was not deliberately placed, the segment failed — regenerate it. Do not keep a segment with accidental text.
+
 ## Build (Remotion, reuse the code in this repo)
 - Use ONE Remotion composition for every video: clothing-explained/remotion/src/ClothingExplained.tsx. Do NOT make a new TSX file per video. It takes a `folder` prop and plays that folder's seg1-4.mp4, narration.mp3, and sfx.mp3. Render with --props='{"folder":"<topic-folder>"}'. 720 frames, 24fps, 720x1280, 30 seconds, one continuous shot.
 - Segments: 4 segment videos per video, 5s + 10s + 10s + 5s, plus 1 hero image. Max 4 segment generations, plus retries to a total of 6. Regenerate a bad segment only if it is visibly wrong; do not keep retrying the same prompt.
