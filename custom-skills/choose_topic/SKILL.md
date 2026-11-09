@@ -74,6 +74,7 @@ Discard any hook that breaks a rule. From the rest, pick the one that names the 
 - Levi's blank red tab, blank tab keeps the trademark in the tab shape itself (video delivered, unbranded visuals, 1080p, out/blank-tab-final-1080p.mp4, 2026-11-06)
 - Copper rivets on jeans: Dario said 2026-11-06 it is a boring topic, do not use it. It was researched and hooks written 2026-11-05, but no video was made.
 - Nike Air bubble (video delivered 2026-11-06/07, Remotion render with narration + SFX)
+- Nike waffle sole (video delivered 2026-11-09, Remotion render with narration + SFX, 1080p, out/waffle-sole-final-1080p.mp4; Dario: "pretty good", SFX seemed randomly placed)
 - Prepared, not built: Converse Chuck Taylor felt sole; Champion Reverse Weave sweatshirt
 
 ## DELIVERY AND SUBTITLES
