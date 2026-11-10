@@ -135,7 +135,7 @@ Dario's verdict on the genuine leather video (2026-11-09): the words "genuine le
 
 - Combine all segments into one continuous video in order and output only the final combined video.
 - Upscale from now on, Dario 2026-11-06: after the Remotion render, upscale the final video with ffmpeg lanczos to 1080x1920, free and local, about 80 seconds for a 30 second video. It is interpolation, it does not add real detail.
-- When you send a video, send only the video, a good title for the video, and a description for the video that includes at least four hashtags and nothing else. After delivering, add the topic to the used-topics list in memory.
+- When you send a video, send only the video, a good title for the video, and a description for the video that includes at least four hashtags and nothing else. Title: around 5 words. Description: around 10 words plus 4 hashtags. NEITHER the title NOR the description may give away the answer — both must tease with a question, like the hook, never sum up the video. Dario 2026-11-09: "did you waste your money on genuine leather ??" is the shape a description should take. A description that states the fact ("genuine leather only promises real hide, never the best layer") is wrong. After delivering, add the topic to the used-topics list in memory.
 
 - Test a short render for this low-poly format before you promise a full video, since the verified 2026-11-05 Remotion render joined clips from the abandoned series and did not test low-poly generation.
 
