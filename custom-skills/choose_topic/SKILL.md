@@ -11,8 +11,9 @@ For each candidate, privately note what most people would guess the reason is, a
 ## The informed viewer
 Assume the viewer already knows popular clothing facts: the watch pocket, copper rivets, selvedge lines, the bomber jacket's orange lining, locker loops, how Gore-Tex breathes, polyester smelling worse than cotton, heel-lock eyelets, why clothes pill or shrink. Anything that appears in "clothing facts you didn't know" listicles is already known. Discard it.
 
-## Where to search (changed 2026-11-06, Dario)
+## Where to search (changed 2026-11-06, Dario; rebalanced 2026-11-10, Dario)
 Discovery first, verification second. Patents are good for proof, bad for finding topics, so do NOT search primary sources first. Do not start a topic search in patents, CBP rulings, court cases, or other law sources. Start with interesting facts, crazy facts, interesting stories, how it works, and how it was invented. Tariff and trademark topics are allowed only if they turn up that way, they are not the search target.
+- Invention stories and clothing technologies come FIRST (Dario 2026-11-10). Prefer topics where something was invented — a new material, a machine, a process, a technology — with an inventor, a problem they were solving, and a mechanism you can show working. Dario 2026-11-10: the search was only finding features of clothing ("that detail was for X") and not invention stories or technologies, and those are boring. A static feature's original purpose is the weakest kind of topic and only survives if the mechanism is genuinely surprising and showable on the object.
 - Search broadly for discovery: crazy facts, weird and surprising clothing facts, inventions, stories behind a feature, and really cool clothing science. Use listicles, forums, social posts, trade magazines, and company stories as discovery leads only, never as proof.
 - Really cool clothing science is good too, as long as it passes the reason jump and the informed viewer would not already know it. Science that is just the guess with more detail still fails.
 - Then verify the survivors. Primary sources are still the check, not the search: U.S. Customs (CBP) CROSS rulings, patents, FTC labeling rules, court cases and trade disputes, apparel trade and sourcing publications, supplier documentation, industry standards, company filings and earnings calls.
@@ -34,16 +35,19 @@ Note: Dario's original list numbered these gates 1 to 4, then 7 and 8. Renumbere
 1. Search broadly and gather at least 20 candidates from crazy facts, inventions, stories, and cool clothing science.
 2. Discard every candidate that fails any gate.
 3. Choose among the survivors in this order of priority, moving to the next rule only to break a tie:
-   a. Stronger proof (primary source beats secondary)
-   b. Bigger distance between the guess and the truth
-   c. Easier to show on a single object
-   d. More relevant to what young men with style wear now
+   a. Invention or technology story over a static feature-origin story (Dario 2026-11-10)
+   b. Stronger proof (primary source beats secondary)
+   c. Bigger distance between the guess and the truth
+   d. Easier to show on a single object
+   e. More relevant to what young men with style wear now
 4. If nothing survives, search a different object and a different source type, and repeat. After three rounds with no survivor, stop and report that no verified topic was found. Never lower the bar and never make up a topic.
 
 ## Calibration
 GOOD: Why many Converse have felt on the bottom. Guess: grip or comfort. Truth: covering at least half the sole with fabric lets the shoe be classified as a slipper, which carries a much lower import tariff. The felt wears off within weeks, a clue it was never for the wearer.
 GOOD: Why some Columbia shirts have a pocket below the waist. Guess: storage. Truth: under U.S. tariff rules, certain women's garments with pockets below the waist pay lower duty. This is a women's garment rule, so it is a pattern example only.
+GOOD (invention story): Nike Air. Guess: a cushion in the sole. Truth: a NASA rocket engineer, Marion Frank Rudy, invented a gas-filled polyurethane pouch with large-molecule gas that would not leak, pitched it to 23 companies, and Nike built it into the Tailwind. The video is about an invention, an inventor, and a mechanism you can show working.
 REJECT: Where the zipper came from (origin trivia). Why jeans have a tiny pocket (listicle staple). Why polyester gym shirts smell worse (the guess, zoomed in). How Gore-Tex blocks rain but lets sweat out (the guess, zoomed in, widely known).
+REJECT: A static feature's original purpose with no invention, no technology, and no mechanism to show — "that pocket was for tickets", "that V was for sweat", "those buttons were for polo". The truth is just the feature's first job, and there is nothing being invented or working on screen. Dario called this whole class boring, 2026-11-10.
 Both good examples involve tariffs, but tariffs are not the pattern. The pattern is a visible feature whose real purpose lives somewhere the viewer never thinks about.
 
 ## Lock the topic
