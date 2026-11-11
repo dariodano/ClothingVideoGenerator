@@ -71,6 +71,7 @@ Discard any hook that breaks a rule. From the rest, pick the one that names the 
 
 ## AFTER DELIVERING
 - Add the topic to the used-topics list in your memory.
+- Keep the used-topics list in GitHub too (Dario, 2026-11-11): after delivering a video, update the USED TOPICS list in this file, custom-skills/choose_topic/SKILL.md, AND in clothing-explained/notes.md, both of which live in the GitHub repo dariodano/ClothingVideoGenerator, and push that update to GitHub. The list must live in GitHub, not just in memory, so a later session or a repo pull sees what is already used.
 - When you send the video, send a good title for the video, and a description for the video that will include at least four hashtags and nothing else, so just the video, title, description.
 
 ## USED TOPICS
@@ -79,7 +80,10 @@ Discard any hook that breaks a rule. From the rest, pick the one that names the 
 - Copper rivets on jeans: Dario said 2026-11-06 it is a boring topic, do not use it. It was researched and hooks written 2026-11-05, but no video was made.
 - Nike Air bubble (video delivered 2026-11-06/07, Remotion render with narration + SFX)
 - Nike waffle sole (video delivered 2026-11-09, Remotion render with narration + SFX, 1080p, out/waffle-sole-final-1080p.mp4; Dario: "pretty good", SFX seemed randomly placed)
-- Prepared, not built: Converse Chuck Taylor felt sole; Champion Reverse Weave sweatshirt
+- Champion Reverse Weave sweatshirt (video made, per Dario 2026-11-11; was prepared, not built, in the 2026-11-11 prep file, now used)
+- Vibram soles (video made, per Dario 2026-11-11)
+- BOA Fit System dial (video delivered 2026-11-11, Remotion render with narration + SFX, 1080p, out/boa-fit-system-final-1080p.mp4, 30.016s)
+- Prepared, not built: Converse Chuck Taylor felt sole
 
 ## DELIVERY AND SUBTITLES
 - When you send a video, send only the video, a good title, and a description with at least four hashtags, and nothing else in that delivery message. No check summary, no caveats, no extra notes.

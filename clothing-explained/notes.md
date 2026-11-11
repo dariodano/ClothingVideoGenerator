@@ -22,10 +22,16 @@ Something is always moving. Voice-only narration, no music.
 - Jeans coin pocket (watch pocket) — 2026-11-06
 - Levi's blank red tab — 2026-11-06, unbranded visuals
 - Nike Air bubble — 2026-11-06/07, Remotion render with narration + SFX
+- Nike waffle sole — 2026-11-09, Remotion render with narration + SFX, 1080p, out/waffle-sole-final-1080p.mp4; Dario: "pretty good", SFX seemed randomly placed
+- Champion Reverse Weave sweatshirt — video made, per Dario 2026-11-11
+- Vibram soles — video made, per Dario 2026-11-11
+- BOA Fit System dial — 2026-11-11, Remotion render with narration + SFX, 1080p, out/boa-fit-system-final-1080p.mp4, 30.016s
+
+## Used topics
+Keep this list in GitHub too (Dario, 2026-11-11): after delivering a video, update this Delivered list AND the USED TOPICS list in custom-skills/choose_topic/SKILL.md, and push to GitHub. The list must live in GitHub, not just in memory.
 
 ## Prepared, not built
 - Converse Chuck Taylor felt sole — tariff / slipper
-- Champion Reverse Weave sweatshirt — 1930s shrink fix, grain rotated 90°
 
 ## Do not use
 - Copper rivets — Dario called it boring, 2026-11-06
