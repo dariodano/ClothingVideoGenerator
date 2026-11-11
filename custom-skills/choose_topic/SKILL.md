@@ -21,6 +21,13 @@ Discovery first, verification second. Patents are good for proof, bad for findin
 
 Clues that a hidden reason exists: a feature with no obvious use or that wears off fast; a feature on one country's, gender's or price tier's version of a product but not another's; an oddly specific blend, measurement or percentage; a sudden change in a specific year.
 
+## Brand balance (Dario, 2026-11-11)
+Single-brand product topics are allowed sometimes, but not every time. A topic counts as single-brand if it is a trademarked product or technology owned by one company, for example Nike Air, BOA, HEATTECH, Champion Reverse Weave. A topic counts as generic if it is a material, construction, mechanism, or science that many brands use, even if one brand is mentioned as an example.
+- No more than 1 single-brand topic in any 3 delivered videos, and never 2 single-brand topics in a row.
+- Before choosing, check the last delivered topics in the USED TOPICS list. If the last 2 delivered were both single-brand, the next topic must be generic. If the last 3 already include 1 single-brand topic, prefer a generic survivor unless the single-brand survivor is clearly stronger on proof, reason distance, and showability.
+- A single-brand topic must earn its place: the invention must be exceptional, not just a brand technology, and the narration must focus on the inventor and the mechanism, never on brand praise or an ad tone.
+- Do not ban single-brand topics outright, and do not force a weak generic topic just to hit the quota. If no generic survivor passes all gates, report that, do not lower the bar, and let Dario decide whether to use a single-brand topic anyway.
+
 ## Gates (a candidate must pass every one)
 1. Most viewers own or have seen the object.
 2. It passes the reason jump.
@@ -40,6 +47,7 @@ Note: Dario's original list numbered these gates 1 to 4, then 7 and 8. Renumbere
    c. Bigger distance between the guess and the truth
    d. Easier to show on a single object
    e. More relevant to what young men with style wear now
+   f. Brand balance (Dario 2026-11-11): no more than 1 single-brand topic in any 3 delivered videos, never 2 in a row, prefer generic when the recent run is already brand-heavy
 4. If nothing survives, search a different object and a different source type, and repeat. After three rounds with no survivor, stop and report that no verified topic was found. Never lower the bar and never make up a topic.
 
 ## Calibration
