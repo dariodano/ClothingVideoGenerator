@@ -39,7 +39,7 @@ Single-brand product topics are allowed sometimes, but not every time. A topic c
 Note: Dario's original list numbered these gates 1 to 4, then 7 and 8. Renumbered here to 1 to 6 with no content change, to close the gap.
 
 ## How to decide
-1. Search broadly and gather at least 20 candidates from crazy facts, inventions, stories, and cool clothing science.
+1. Search broadly and gather at least 10 candidates from crazy facts, inventions, stories, and cool clothing science. (Changed 2026-11-11, Dario: pull 10 from now on, was at least 20.)
 2. Discard every candidate that fails any gate.
 3. Choose among the survivors in this order of priority, moving to the next rule only to break a tie:
    a. Invention or technology story over a static feature-origin story (Dario 2026-11-10)
@@ -91,7 +91,9 @@ Discard any hook that breaks a rule. From the rest, pick the one that names the 
 - Champion Reverse Weave sweatshirt (video made, per Dario 2026-11-11; was prepared, not built, in the 2026-11-11 prep file, now used)
 - Vibram soles (video made, per Dario 2026-11-11)
 - BOA Fit System dial (video delivered 2026-11-11, Remotion render with narration + SFX, 1080p, out/boa-fit-system-final-1080p.mp4, 30.016s)
-- Prepared, not built: Converse Chuck Taylor felt sole
+- Lockstitch sewing machine: Dario said 2026-11-11 it is too well known, do not use it. Prep file hooks-lockstitch.md was written, but no video was made.
+- Naturally colored cotton (video delivered 2026-11-11, Remotion render with narration + SFX, 1080p, out/naturally-colored-cotton-final-1080p.mp4, 30.016s)
+- Prepared, not built: Converse Chuck Taylor felt sole; Uniqlo HEATTECH (single-brand, waits under brand balance rule)
 
 ## DELIVERY AND SUBTITLES
 - When you send a video, send only the video, a good title, and a description with at least four hashtags, and nothing else in that delivery message. No check summary, no caveats, no extra notes.
