@@ -92,7 +92,7 @@ Discard any hook that breaks a rule. From the rest, pick the one that names the 
 - Vibram soles (video made, per Dario 2026-11-11)
 - BOA Fit System dial (video delivered 2026-11-11, Remotion render with narration + SFX, 1080p, out/boa-fit-system-final-1080p.mp4, 30.016s)
 - Lockstitch sewing machine: Dario said 2026-11-11 it is too well known, do not use it. Prep file hooks-lockstitch.md was written, but no video was made.
-- Naturally colored cotton (video delivered 2026-11-11, Remotion render with narration + SFX, 1080p, out/naturally-colored-cotton-final-1080p.mp4, 30.016s)
+- Naturally colored cotton (video delivered 2026-11-12, Remotion render with narration + SFX, 1080p, out/naturally-colored-cotton-v3-final-1080p.mp4, 30.016s)
 - Prepared, not built: Converse Chuck Taylor felt sole; Uniqlo HEATTECH (single-brand, waits under brand balance rule)
 
 ## DELIVERY AND SUBTITLES

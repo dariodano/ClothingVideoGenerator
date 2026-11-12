@@ -26,7 +26,7 @@ Something is always moving. Voice-only narration, no music.
 - Champion Reverse Weave sweatshirt — video made, per Dario 2026-11-11
 - Vibram soles — video made, per Dario 2026-11-11
 - BOA Fit System dial — 2026-11-11, Remotion render with narration + SFX, 1080p, out/boa-fit-system-final-1080p.mp4, 30.016s
-- Naturally colored cotton — 2026-11-11, Remotion render with narration + SFX, 1080p, out/naturally-colored-cotton-final-1080p.mp4, 30.016s
+- Naturally colored cotton — 2026-11-12, Remotion render with narration + SFX, 1080p, out/naturally-colored-cotton-v3-final-1080p.mp4, 30.016s
 
 ## Used topics
 Keep this list in GitHub too (Dario, 2026-11-11): after delivering a video, update this Delivered list AND the USED TOPICS list in custom-skills/choose_topic/SKILL.md, and push to GitHub. The list must live in GitHub, not just in memory.
